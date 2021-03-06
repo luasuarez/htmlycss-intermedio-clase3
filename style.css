@@ -1,0 +1,61 @@
+.container-ppal-footer {
+    background-image: url("https://thumbs.dreamstime.com/b/la-frontera-retra-del-grunge-marr%C3%B3n-beige-texturiz%C3%B3-el-fondo-powerpoint-w-68140627.jpg");
+    width: 50%;
+    padding: 30%;
+}
+
+
+.container-title {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.container-title h1{
+    text-align: center;
+}
+
+.container-title form{
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.div-group {
+    text-align:center;
+
+}
+
+.div-group .input-text {
+    border-radius: 15px;
+    border: none;
+    padding: 4px 3px;   
+    font-size: 1.2rem;
+    
+}
+
+.div-group button{
+    border-radius: 15px;
+    border: none;
+    padding: 5px 4px; 
+    padding-left: 80%;
+    padding-right: 80%;
+    background-color: chocolate;
+    color: white;
+    font-size: 1.2rem;
+    fo         
+    
+}
+
+.div-group button:hover{
+    background-color: rgb(179, 97, 38);
+    cursor: pointer;
+}
+
+.container-text-info {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    display: flex;
+}
